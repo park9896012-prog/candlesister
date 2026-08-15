@@ -1,7 +1,7 @@
 import { Product } from '../types';
 
 export const IDUS_STORE_URL = "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user";
-export const SMARTSTORE_URL = "https://smartstore.naver.com/candlesister_store";
+export const SMARTSTORE_URL = "https://smartstore.naver.com/candlesister_store?NaPm=ct%3Dmstxnlkr%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3D5d4448343ce0467d5caef70e987e85ac8c289d38";
 
 export const PRODUCTS: Product[] = [
   {
@@ -11,7 +11,7 @@ export const PRODUCTS: Product[] = [
     price: 25000,
     originalPrice: 29000,
     discountRate: 14,
-    category: "캔들/방향제",
+    category: "개업ㆍ집들이 선물",
     description: "골든 소이 왁스와 프리미엄 프래그런스 오일로 정성껏 블렌딩하여 머리 아프지 않은 맑은 향을 선사합니다.",
     fullDescription: "초언니들의 베스트셀러 시그니처 캔들 세트입니다. 미국산 100% 천연 골든 소이 왁스만을 사용하여 유해 물질 걱정 없이 안심하고 태울 수 있습니다. 친환경 우드윅 심지를 적용하여 촛불을 켤 때마다 자작나무 장작이 타는 듯한 기분 좋은 ASMR 사운드를 즐기실 수 있습니다.",
     images: [
@@ -42,8 +42,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.9,
     reviewCount: 428,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     },
     isCustomizable: true
   },
@@ -54,7 +54,7 @@ export const PRODUCTS: Product[] = [
     price: 34000,
     originalPrice: 38000,
     discountRate: 11,
-    category: "오브제/소품",
+    category: "차량용 방향제",
     description: "핸드크래프트 도자기와 수제 캔들의 조화. 연소 후에는 다용도 화병이나 인테리어 오브제로 활용 가능합니다.",
     fullDescription: "흙의 온기가 느껴지는 핸드메이드 백자 도자기에 캔들을 부어 완성한 고급 오브제입니다. 캔들을 모두 태우고 난 뒤 뜨거운 물로 가볍게 세척하면 찻잔, 칫솔꽂이, 미니 화병 등 지속 가능한 라이프스타일 소품으로 영구 소장이 가능합니다.",
     images: [
@@ -84,8 +84,8 @@ export const PRODUCTS: Product[] = [
     rating: 5.0,
     reviewCount: 189,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     },
     isCustomizable: true
   },
@@ -96,7 +96,7 @@ export const PRODUCTS: Product[] = [
     price: 13500,
     originalPrice: 15000,
     discountRate: 10,
-    category: "캔들/방향제",
+    category: "개업ㆍ집들이 선물",
     description: "불을 붙이지 않고 옷장, 신발장, 차량 등에 걸어두는 은은하고 감성적인 고체 방향제입니다.",
     fullDescription: "자연 건조한 수국, 유칼립투스, 미니 장미를 왁스 표면에 섬세하게 올려 장식한 왁스 타블렛입니다. 프랑스 IFRA 안전 인증 에센셜 오일을 사용하여 밀폐된 공간에서도 머리가 아프지 않고 기분 좋은 발향을 선사합니다.",
     images: [
@@ -124,8 +124,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.9,
     reviewCount: 312,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     },
     isCustomizable: true
   },
@@ -136,7 +136,7 @@ export const PRODUCTS: Product[] = [
     price: 18000,
     originalPrice: 21000,
     discountRate: 14,
-    category: "디퓨저/룸스프레이",
+    category: "개업ㆍ집들이 선물",
     description: "사탕수수 발효 식물성 에탄올 베이스로 자극 없이 공간과 침구의 냄새를 99% 케어합니다.",
     fullDescription: "외출 전후 코트나 침구, 거실 패브릭에 2~3회 분사하여 싱그러운 호텔 스파의 무드를 연출해보세요. 항균 및 탈취 검사를 완료한 순한 성분으로 반려동물이나 아이가 있는 가정에서도 안심하고 사용할 수 있습니다.",
     images: [
@@ -164,8 +164,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.8,
     reviewCount: 145,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     }
   },
   {
@@ -175,7 +175,7 @@ export const PRODUCTS: Product[] = [
     price: 28000,
     originalPrice: 32000,
     discountRate: 13,
-    category: "디퓨저/룸스프레이",
+    category: "개업ㆍ집들이 선물",
     description: "안전한 곡물 발효 베이스와 천연 우드 리드스틱으로 균일하고 자연스러운 발향을 선사합니다.",
     fullDescription: "매일 머무는 공간을 5성급 부티크 호텔의 로비처럼 연출해주는 홈스테디 디퓨저입니다. 묵직하고 모던한 유리 용기와 내추럴 월넛 우드 캡, 드라이 플라워 포인트 스틱 5개가 기본 동봉되어 인테리어 효과가 뛰어납니다.",
     images: [
@@ -203,8 +203,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.9,
     reviewCount: 276,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     }
   },
   {
@@ -214,7 +214,7 @@ export const PRODUCTS: Product[] = [
     price: 39000,
     originalPrice: 46000,
     discountRate: 15,
-    category: "선물세트",
+    category: "시즌 선물",
     description: "시그니처 소이 캔들과 앤틱 골드 캔들 관리 도구(스너퍼, 윅디퍼), 롱 성냥이 포함된 선물 패키지.",
     fullDescription: "집들이 선물, 생일 축하, 연말연시 감사 선물로 가장 사랑받는 올인원 선물세트입니다. 고급스러운 앤틱 골드 마감의 캔들 케어 액세서리가 함께 구성되어 캔들을 끌 때 그을음 없이 깔끔하게 관리할 수 있습니다.",
     images: [
@@ -240,8 +240,8 @@ export const PRODUCTS: Product[] = [
     rating: 5.0,
     reviewCount: 512,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     },
     isCustomizable: true
   },
@@ -252,7 +252,7 @@ export const PRODUCTS: Product[] = [
     price: 45000,
     originalPrice: 50000,
     discountRate: 10,
-    category: "답례품/커스텀",
+    category: "답례품",
     description: "10개 단위로 주문 가능한 맞춤 라벨 캔들. 특별한 날 찾아주신 분들께 기억에 남는 향기를 선물하세요.",
     fullDescription: "웨딩, 돌잔치, 기업 행사, 개업식 등에 가장 인기 있는 맞춤 라벨링 캔들입니다. 원하시는 문구와 날짜, 디자인 시안을 1:1로 확인 후 정성스럽게 제작해 드립니다. 10개 이상 대량 주문 시 추가 할인 및 개별 쇼핑백을 함께 증정합니다.",
     images: [
@@ -278,8 +278,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.9,
     reviewCount: 380,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     },
     isCustomizable: true
   },
@@ -290,7 +290,7 @@ export const PRODUCTS: Product[] = [
     price: 12000,
     originalPrice: 14000,
     discountRate: 14,
-    category: "오브제/소품",
+    category: "차량용 방향제",
     description: "테이블, 선반, 협탁 어디에 두어도 감각적인 포인트가 되는 소장 가치 100% 감성 캔들입니다.",
     fullDescription: "소이 왁스와 밀랍(비즈왁스)을 최적의 비율로 배합하여 단단하면서도 부드러운 텍스처를 자랑하는 버블 큐브 캔들입니다. 태우지 않고 올려두는 것만으로도 공간의 분위기를 포근하고 감각적으로 전환해줍니다.",
     images: [
@@ -318,8 +318,8 @@ export const PRODUCTS: Product[] = [
     rating: 4.8,
     reviewCount: 94,
     links: {
-      idus: "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
-      smartstore: "https://smartstore.naver.com/candlesister_store"
+      idus: IDUS_STORE_URL,
+      smartstore: SMARTSTORE_URL
     }
   }
 ];
