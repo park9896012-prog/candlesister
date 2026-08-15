@@ -39,7 +39,7 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
 
     // Category filter
     if (activeCategory !== 'all') {
-      result = result.filter(p => p.category === activeCategory);
+      result = result.filter(p => p.categories && p.categories.includes(activeCategory));
     }
 
     // Search query filter

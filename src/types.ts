@@ -24,7 +24,7 @@ export interface Product {
   price: number;
   originalPrice?: number;
   discountRate?: number;
-  category: '차량용 방향제' | '답례품' | '개업ㆍ집들이 선물' | '시즌 선물';
+  categories: ProductCategory[];
   description: string;
   fullDescription: string;
   images: string[];
