@@ -137,6 +137,13 @@ app.post('/api/scrape', authenticateToken, async (req, res) => {
   }
 });
 
+// ---------------- SERVE FRONTEND (PRODUCTION) ---------------- //
+const distPath = path.join(__dirname, '../dist');
+app.use(express.static(distPath));
+app.get('*', (req, res) => {
+  res.sendFile(path.join(distPath, 'index.html'));
+});
+
 app.listen(PORT, () => {
-  console.log(`Backend server running on http://localhost:${PORT}`);
+  console.log(`Backend server running on port ${PORT}`);
 });
