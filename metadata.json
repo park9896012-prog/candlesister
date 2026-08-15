@@ -1,0 +1,7 @@
+{
+  "name": "초언니들 - 핸드메이드 라이프스타일 셀렉트숍",
+  "description": "핸드메이드 캔들·디퓨저·공예 브랜드 '초언니들' 공식 통합 상품 소개 및 아이디어스/스마트스토어 구매 연동 셀렉트숍",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

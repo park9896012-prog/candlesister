@@ -1,0 +1,139 @@
+[
+  {
+    "id": "prod-01",
+    "title": "초언니들 시그니처 소이 캔들 세트 (우드윅 & 골드 틴케이스)",
+    "subtitle": "은은한 향과 감성적인 타닥타닥 소리가 돋보이는 100% 천연 수제 소이 캔들",
+    "price": 25000,
+    "originalPrice": 29000,
+    "discountRate": 14,
+    "category": "캔들/방향제",
+    "description": "골든 소이 왁스와 프리미엄 프래그런스 오일로 정성껏 블렌딩하여 머리 아프지 않은 맑은 향을 선사합니다.",
+    "images": [
+      "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1572726729953-b0938f38bc5a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  },
+  {
+    "id": "prod-02",
+    "title": "달항아리 세라믹 오브제 캔들 (도자기 홀더 포함)",
+    "subtitle": "한국 전통의 미를 담은 백자 달항아리 속 플로럴 우디 소이 캔들",
+    "price": 34000,
+    "originalPrice": 38000,
+    "discountRate": 11,
+    "category": "오브제/소품",
+    "description": "핸드크래프트 도자기와 수제 캔들의 조화. 연소 후에는 다용도 화병이나 인테리어 오브제로 활용 가능합니다.",
+    "images": [
+      "https://images.unsplash.com/photo-1608181831434-2e6b77fd8981?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  },
+  {
+    "id": "prod-03",
+    "title": "보태니컬 플라워 왁스 타블렛 (옷장·방향 사셰)",
+    "subtitle": "천연 드라이플라워와 프리미엄 에센셜 오일로 굳힌 감성 방향제",
+    "price": 13500,
+    "originalPrice": 15000,
+    "discountRate": 10,
+    "category": "캔들/방향제",
+    "description": "불을 붙이지 않고 옷장, 신발장, 차량 등에 걸어두는 은은하고 감성적인 고체 방향제입니다.",
+    "images": [
+      "https://images.unsplash.com/photo-1595855759920-86582396756a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  },
+  {
+    "id": "prod-04",
+    "title": "초언니들 프리미엄 룸 & 패브릭 스프레이 150ml",
+    "subtitle": "공간과 섬유를 즉각적으로 맑고 향기롭게 바꿔주는 천연 탈취 아로마 미스트",
+    "price": 18000,
+    "originalPrice": 21000,
+    "discountRate": 14,
+    "category": "디퓨저/룸스프레이",
+    "description": "사탕수수 발효 식물성 에탄올 베이스로 자극 없이 공간과 침구의 냄새를 99% 케어합니다.",
+    "images": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  },
+  {
+    "id": "prod-05",
+    "title": "홈스테디 리드 디퓨저 200ml (우드 캡 & 리얼 플라워 스틱)",
+    "subtitle": "거실과 침실을 따뜻하고 고급스러운 무드로 채우는 감성 보태니컬 디퓨저",
+    "price": 28000,
+    "originalPrice": 32000,
+    "discountRate": 13,
+    "category": "디퓨저/룸스프레이",
+    "description": "안전한 곡물 발효 베이스와 천연 우드 리드스틱으로 균일하고 자연스러운 발향을 선사합니다.",
+    "images": [
+      "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  },
+  {
+    "id": "prod-06",
+    "title": "[선물세트] 힐링 나이트 기프트 패키지 (캔들 + 스너퍼 + 윅디퍼 + 성냥)",
+    "subtitle": "소중한 사람에게 쉼과 온기를 선물하는 올인원 캔들 케어 풀세트",
+    "price": 39000,
+    "originalPrice": 46000,
+    "discountRate": 15,
+    "category": "선물세트",
+    "description": "시그니처 소이 캔들과 앤틱 골드 캔들 관리 도구(스너퍼, 윅디퍼), 롱 성냥이 포함된 선물 패키지.",
+    "images": [
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  },
+  {
+    "id": "prod-07",
+    "title": "[웨딩/돌잔치 답례품] 맞춤 라벨링 미니 캔들 60g (10개 세트~)",
+    "subtitle": "신랑신부 이름 또는 아기 이름을 각인한 따뜻한 정성의 감성 답례품",
+    "price": 45000,
+    "originalPrice": 50000,
+    "discountRate": 10,
+    "category": "답례품/커스텀",
+    "description": "10개 단위로 주문 가능한 맞춤 라벨 캔들. 특별한 날 찾아주신 분들께 기억에 남는 향기를 선물하세요.",
+    "images": [
+      "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  },
+  {
+    "id": "prod-08",
+    "title": "크라프트 버블 큐브 오브제 필라 캔들 (감성 인테리어)",
+    "subtitle": "몽글몽글 사랑스러운 큐브 버블 형태의 무향/유향 인테리어 필라 캔들",
+    "price": 12000,
+    "originalPrice": 14000,
+    "discountRate": 14,
+    "category": "오브제/소품",
+    "description": "테이블, 선반, 협탁 어디에 두어도 감각적인 포인트가 되는 소장 가치 100% 감성 캔들입니다.",
+    "images": [
+      "https://images.unsplash.com/photo-1595855759920-86582396756a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "links": {
+      "idus": "https://www.idus.com/v2/search?keyword=%EC%B4%88%EC%96%B8%EB%8B%88%EB%93%A4&keyword_channel=user",
+      "smartstore": "https://smartstore.naver.com/candlesister_store"
+    }
+  }
+]
