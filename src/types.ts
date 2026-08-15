@@ -1,10 +1,9 @@
 export type ProductCategory = 
   | 'all'
-  | '캔들/방향제'
-  | '디퓨저/룸스프레이'
-  | '오브제/소품'
-  | '선물세트'
-  | '답례품/커스텀';
+  | '차량용 방향제'
+  | '답례품'
+  | '개업ㆍ집들이 선물'
+  | '시즌 선물';
 
 export interface ProductScentNote {
   top?: string;
@@ -25,7 +24,7 @@ export interface Product {
   price: number;
   originalPrice?: number;
   discountRate?: number;
-  category: '캔들/방향제' | '디퓨저/룸스프레이' | '오브제/소품' | '선물세트' | '답례품/커스텀';
+  category: '차량용 방향제' | '답례품' | '개업ㆍ집들이 선물' | '시즌 선물';
   description: string;
   fullDescription: string;
   images: string[];

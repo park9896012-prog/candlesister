@@ -27,11 +27,10 @@ export const ProductGrid: React.FC<ProductGridProps> = ({
 
   const categories: { label: string; value: ProductCategory }[] = [
     { label: '전체 보기', value: 'all' },
-    { label: '캔들/방향제', value: '캔들/방향제' },
-    { label: '디퓨저/룸스프레이', value: '디퓨저/룸스프레이' },
-    { label: '오브제/소품', value: '오브제/소품' },
-    { label: '선물세트', value: '선물세트' },
-    { label: '답례품/커스텀', value: '답례품/커스텀' },
+    { label: '차량용 방향제', value: '차량용 방향제' },
+    { label: '답례품', value: '답례품' },
+    { label: '개업ㆍ집들이 선물', value: '개업ㆍ집들이 선물' },
+    { label: '시즌 선물', value: '시즌 선물' },
   ];
 
   // Filtering & Sorting
